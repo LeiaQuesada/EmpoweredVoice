@@ -2,6 +2,10 @@
 
 Empowered Voice in Pregnancy, EmVP, will support users to understand critical aspects of individual-level preconception and pregnancy care to be able to recognize potential complications and advocate for themselves through education and curated resources to optimize their care beyond the platform.
 
+# Planning Docs
+[Google Doc](https://docs.google.com/document/d/1jNN9cKeyWs91xTEYmq9STx0Hw45EdYaFXfSOIkPDJDM/edit?usp=sharing) \
+[Slideshow](https://www.canva.com/design/DAGII6vk9fI/RShN6GYxOlradJqqDBf8Eg/edit?utm_content=DAGII6vk9fI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
