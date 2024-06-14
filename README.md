@@ -1,6 +1,6 @@
-# Empowered Voice, EmPV
+# Empowered Voice in Pregnancy, EmVP
 
-Empowered Voice will support users understand critical aspects of individual-level preconception and pregnancy care to be able to identify potential complications and advocate for themselves through education and curated resources to optimize their care beyond the platform.
+Empowered Voice in Pregnancy, EmVP, will support users to understand critical aspects of individual-level preconception and pregnancy care to be able to recognize potential complications and advocate for themselves through education and curated resources to optimize their care beyond the platform.
 
 # Getting Started with Create React App
 
